@@ -1,5 +1,2 @@
 * satish
-* shankar
-* Krishna
-* kaduresh
-* alok
+*shankar
